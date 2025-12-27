@@ -16,5 +16,5 @@
 ✅ **Smart Buttons** - Equipment form shows open request count  
 ✅ **Scrap Logic** - Auto-mark equipment as inactive  
 
-## 🛠 Tech Stack
+
 
